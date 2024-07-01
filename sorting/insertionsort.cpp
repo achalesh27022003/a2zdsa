@@ -1,4 +1,4 @@
-// Insertion Sort: Select the element and put it in its correct order.
+// Insertion Sort: Select the each element and put it in its correct order.
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -61,6 +61,7 @@ Enter elements:
 
 Output:
 didSwap value: 13
+stepComplete value: 7
 Elements in sorted manner:
 6
 8
