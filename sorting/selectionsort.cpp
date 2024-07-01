@@ -1,3 +1,5 @@
+// Selection Sort: Select the Minium element in the array and swap it.
+
 #include<bits/stdc++.h>
 using namespace std;
 
